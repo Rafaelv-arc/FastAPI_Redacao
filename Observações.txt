@@ -1,0 +1,4 @@
+O models e o schemas são duas pontas de uma ponte
+
+O schemas pega os dados e transformam em json em json sendo objeto salva no banco de dados do model que depois de ter salvo em json volta para o estado original de dados.
+

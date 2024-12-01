@@ -1,0 +1,25 @@
+# Ambiente virtual personalizado
+amb_api/
+
+# Outros itens comuns
+__pycache__/
+*.py[cod]
+.env
+*.log
+*.sqlite3
+
+# Build e distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs e editores de texto
+.vscode/
+.idea/
+.DS_Store
+
+# Arquivos de teste e cache
+.coverage
+.tox/
+pytest_cache/
